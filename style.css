@@ -21,12 +21,12 @@ body,html{
 @font-face {
     font-family:T2;
     src: url(./font/Patriot-Bold.otf);
-
 }
 .t2{
     font-family: T2;
 }
-
 .t1-font{
     font-family: T1;
 }
+
+
